@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hieunlt
-- 👀 I’m interested in data engineering & backend development
-- 🌱 About me: a self-learned, technical oriented data enthusiast with minor experience in fintech and social media industry.
+- 👀 I’m interested in data engineering & backend
+- 🌱 About me: A self-learned, tech enthusiast with minor experience in the fintech and social media industry.
 - 📫 How to reach me: nguyenlethienhieu@gmail.com
 
 <!---
