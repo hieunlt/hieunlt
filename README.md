@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hieunlt
-- 👀 I’m interested in data engineering & backend
+- 👀 I’m interested in FOSS
 - 🌱 About me: A self-learned, tech enthusiast with minor experience in the fintech and social media industry.
 - 📫 How to reach me: nguyenlethienhieu@gmail.com
 
